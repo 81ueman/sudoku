@@ -1,0 +1,2 @@
+# sudoku
+just learning go
